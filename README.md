@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/brian-conor-sanford/threat-hunting-scenario-Tor)**
-- **[Threat Hunting Scenario (Azuki - Nov 22)](https://github.com/brian-conor-sanford/November22Threathunt/tree/main)
+**- **[Threat Hunting Scenario (Azuki - Nov 22)]**(https://github.com/brian-conor-sanford/November22Threathunt/tree/main)
 - **[Threat Hunting Scenario (Azuki - Dec 10)](https://github.com/brian-conor-sanford/December10ThreatHunt)**
 <hr/>
 
