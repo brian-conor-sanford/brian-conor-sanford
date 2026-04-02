@@ -17,6 +17,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Dead in the Water - Threat Hunt (Azuki)](https://github.com/brian-conor-sanford/January6ThreatHunt/)**
 <hr/>
 
+## Community Assist
+
+-**[(Community Assist)](https://github.com/brian-conor-sanford/Community-Assist-11-25/new/main?readme=1)**
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
